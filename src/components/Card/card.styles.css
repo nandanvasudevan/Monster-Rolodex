@@ -1,8 +1,8 @@
 .card-container {
   display: flex;
   flex-direction: column;
-  background-color: #b7b8f8;
-  border: 1px solid grey;
+  background-color: #071c533f;
+  border: 1px solid black;
   border-radius: 5px;
   padding: 25px;
   cursor: pointer;
@@ -19,5 +19,9 @@
 .monster-name {
   font-family: "Bigelow Rules";
   font-size: 70px;
-  color: black;
+  color: #73f5ca;
+}
+
+p {
+  color: #73f5ca;
 }
