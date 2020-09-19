@@ -15,3 +15,9 @@
 .card-container:hover {
   transform: scale(1.05);
 }
+
+.monster-name {
+  font-family: "Bigelow Rules";
+  font-size: 4em;
+  color: black;
+}
